@@ -1,2 +1,1 @@
-# Tarea_Javascript
-Tarea_Javascript
+# Aplicaci-n-de-Productos-con-Javascript-Orientado-a-Objetos
